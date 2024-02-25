@@ -1,0 +1,31 @@
+{
+  "date": "Sun Feb 25 2024 14:08:05 GMT+0700 (Western Indonesia Time)",
+  "error": "Ups",
+  "exception": true,
+  "level": "error",
+  "message": "unhandledRejection: Ups\n  No stack trace",
+  "os": {
+    "loadavg": [2.986328125, 4.46484375, 4.23193359375],
+    "uptime": 881205
+  },
+  "process": {
+    "argv": [
+      "/Users/macbook/Development/me/typescript/unit-test/node_modules/.bin/ts-node",
+      "/Users/macbook/Development/me/typescript/unit-test/src/logging-rejection.ts"
+    ],
+    "cwd": "/Users/macbook/Development/me/typescript/unit-test",
+    "execPath": "/Users/macbook/.nvm/versions/node/v20.10.0/bin/node",
+    "gid": 20,
+    "memoryUsage": {
+      "arrayBuffers": 2345047,
+      "external": 5025465,
+      "heapTotal": 154329088,
+      "heapUsed": 123294520,
+      "rss": 203091968
+    },
+    "pid": 95784,
+    "uid": 501,
+    "version": "v20.10.0"
+  },
+  "trace": []
+}
